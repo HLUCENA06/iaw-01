@@ -1,3 +1,3 @@
-# iaw-01
-pracica 1 de iaw <br>
-netanyahu <3
+# iaw
+Repositorio para la asignatura IAW de 2ºASIR<br>
+Propiedad de Hugo Lucena
